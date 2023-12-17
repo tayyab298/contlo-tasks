@@ -76,7 +76,7 @@ num_layers: Number of transformer blocks.
 
 ```
 
-Task 2
+# Task 2
 Architecture
 Components
 SlidingWindowAttention: Implements attention mechanism with sliding window functionality.

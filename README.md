@@ -77,10 +77,12 @@ num_layers: Number of transformer blocks.
 ```
 
 # Task 2
+
 Architecture
+
 Components
-SlidingWindowAttention: Implements attention mechanism with sliding window functionality.
-GroupQueryAttention: Implements attention by grouping queries.
-RotaryPositionalEncoding: Generates positional encodings using rotary embeddings.
-TransformerBlock: A block comprising attention and feedforward layers.
-GPT2: GPT-2 model architecture with configurable attention mechanisms.
+- SlidingWindowAttention: Implements attention mechanism with sliding window functionality.
+- GroupQueryAttention: Implements attention by grouping queries.
+- RotaryPositionalEncoding: Generates positional encodings using rotary embeddings.
+- TransformerBlock: A block comprising attention and feedforward layers.
+- GPT2: GPT-2 model architecture with configurable attention mechanisms.
